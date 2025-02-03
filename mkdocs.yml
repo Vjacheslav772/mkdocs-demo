@@ -1,0 +1,8 @@
+site_name: Italianc Mkdocs demo
+site_url: https://Vjacheslav772.github.io/mkdocs-demo1
+theme:
+  name: material
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
