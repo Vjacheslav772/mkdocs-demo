@@ -4,8 +4,8 @@ theme:
   name: material
   palette: 
     scheme: slate
-    #primary: indigo
-    #accent: indigo
+    primary: indigo
+    accent: indigo
   
 site_author: Viacheslav Aprodu
 copyright: Viacheslav Aprodu, 2025
