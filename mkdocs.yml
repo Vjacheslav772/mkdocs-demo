@@ -2,10 +2,22 @@ site_name: Сайт-тест Вячеслава
 site_url: https://Vjacheslav772.github.io/Test_Site/
 theme:
   name: material
-  palette: 
-    scheme: slate
-    primary: indigo
-    accent: indigo
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: green
+      accent: deep purple
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
   
 site_author: Viacheslav Aprodu
 copyright: Viacheslav Aprodu, 2025
