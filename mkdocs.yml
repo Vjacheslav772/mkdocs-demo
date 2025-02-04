@@ -10,6 +10,7 @@ theme:
   icon:
     logo: fontawesome/solid/w
   #favicon: assets/favicon.ico
+  #favicon: fonta
   features:
     - navigation.footer
   palette:
@@ -28,7 +29,7 @@ theme:
         name: Light mode
       primary: blue
       accent: deep orange
-
+'
 markdown_extensions:
   - attr_list
   - #pymdownx.emoji:
@@ -56,9 +57,9 @@ markdown_extensions:
 #      link: https://youtube.com/@james-willett
 #    - icon: simple/linkedin
 #      link: https://linkedin.com/in/willettjames
-  
+:'  
 site_author: Viacheslav Aprodu
-copyright: Viacheslav Aprodu, 2025
+copyright: Copyright &copy; 2025 Viacheslav Aprodu
 markdown_extensions:
   - admonition
   - pymdownx.details
