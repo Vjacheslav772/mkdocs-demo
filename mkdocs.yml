@@ -2,6 +2,9 @@ site_name: Сайт-тест Вячеслава
 site_url: https://Vjacheslav772.github.io/Test_Site/
 theme:
   name: material
+  font:
+    text: Roboto
+    code: Roboto Mono
   palette:
     # Dark Mode
     - scheme: slate
