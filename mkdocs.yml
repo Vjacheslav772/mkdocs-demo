@@ -32,7 +32,7 @@ theme:
 
 site_author: Viacheslav Aprodu
 copyright: Copyright &copy; 2025 Viacheslav Aprodu
-markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
+#markdown_extensions:
+#  - admonition
+#  - pymdownx.details
+#  - pymdownx.superfences
